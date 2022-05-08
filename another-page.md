@@ -1,8 +1,8 @@
 ---
 layout: default
+title: Welcome to another page
+date: 2022-04-14
 ---
-
-## Welcome to another page
 
 _yay_
 

@@ -119,20 +119,16 @@ kbd {
 }
 
 header {
-  width:270px;
-  float:left;
-  position:fixed;
   -webkit-font-smoothing:subpixel-antialiased;
+  padding-bottom:10px;
 }
 
-ul.downloads {
-  list-style:none;
-  height:40px;
-  padding:0;
-  background: #f4f4f4;
-  border-radius:5px;
-  border:1px solid #e0e0e0;
-  width:270px;
+header h1 {
+  font-size: 40px;
+}
+
+header .sitename {
+  padding-bottom:10px;
 }
 
 .downloads li {
@@ -187,7 +183,6 @@ strong {
 
 section {
   width:500px;
-  float:right;
   padding-bottom:50px;
 }
 
