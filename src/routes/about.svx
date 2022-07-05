@@ -1,0 +1,9 @@
+<script context="module">
+</script>
+
+# About!
+
+This site is currently a work in progress, but I still intend to post content here in the interim as it is updated.
+
+If you need to reach me I am available at kevin [at] unkri.ch
+
